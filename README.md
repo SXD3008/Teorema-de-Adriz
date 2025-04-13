@@ -1,6 +1,3 @@
-# Teorema-de-Adriz
-Teorema de Adriz: Uma generalização da regra de três usando média ponderada.
-
 # Teorema de Adriz 📐
 
 > *Como misturar coisas diferentes sem estragar a receita*
